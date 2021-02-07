@@ -1,1 +1,1 @@
-# KNN
+# Les ateliers ML
